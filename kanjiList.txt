@@ -1,6 +1,2 @@
-hon
-iku
-kyo
-dai
-gaku
-hito
+happy
+sad
