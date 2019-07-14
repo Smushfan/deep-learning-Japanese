@@ -4,3 +4,6 @@ kyo
 hito
 dai
 gaku
+hi
+taka
+kuruma
